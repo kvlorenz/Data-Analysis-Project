@@ -14,7 +14,7 @@ card. The paper and same day checks cost $7.43 per purchase while the virtual an
 direct deposit checks are $4.50 per purchase. What this program does is classify
 each purchase based on the size of the purchase and graph what each the frequency of
 what check is used for different sizes. With the actual data, I created two graphs
-(as seen in the file "graph.jpg") that shows the results of the varying purchases.
+(as seen in the file "Figure_1.png") that shows the results of the varying purchases.
 
 If you would like to know more about this project or would like to request any
 modifications that I can do, e-mail me at kvlorenz@ucsd.edu.
