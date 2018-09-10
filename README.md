@@ -1,10 +1,10 @@
 # Data-Analysis-Project
-Hi Everyone! This is a fun little ad hoc project that allows you to analyze a
-record of purchases in terms of the size of each purchase and its cost for using a
-certain type of check. The project is based on a spreadsheet made by the UCSD IPPS
-services which includes around 15000 purchases in the actual file. I have uploaded
-a sample of what the csv looks like without giving away the actual data to protect
-the privacy of those purchases. The structure of the csv file looks like this:
+This is a little ad hoc project that analyzes a record of purchases in terms of the 
+size of each purchase and its cost for using a certain type of check. The project is 
+based on a spreadsheet made by the UCSD IPPS services which includes around 15000 
+purchases in the actual file. I have uploaded a sample of what the csv looks like 
+without giving away the actual data to protect the privacy of those purchases. The 
+structure of the csv file looks like this:
 
 PO_NUMBER,CHECK_NUMBER,CHECK_DATE,PAID_AMOUNT,CANCEL_IND,PAYEE_ID,ORGIN_CODE,ORGANIZATION,PAYMENT TYPE
 
